@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-      "bufferSize","audioLangs","subtitlesLangs","subtitleColor"
+      "bufferSize","audioLangs","subtitleLangs"
     ]
   }
