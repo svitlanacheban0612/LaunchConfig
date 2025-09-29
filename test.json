@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-      "keyboardLayouts","ntp","playback","timeShiftEnable","timeShiftLength","timeShiftBufferMode","timeShiftOnExit","timeShiftDelay"
+      "keyboardLayouts","ntp","playback","timeShiftEnable","timeShiftLength","timeShiftBufferMode","timeShiftOnExit","timeShiftDelay","timeshift"
     ]
   }
