@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-       "keyboardLayouts","ntp","playback","timeshift","remoteControl","ethernet","wifi","multicast","networkInfo","igmp","upnp","networkSpeed"
+       "keyboardLayouts","ntp","playback","timeshift","remoteControl","ethernet","wifi","multicast","networkInfo","igmp","upnp","networkSpeed","network"
     ]
   }
