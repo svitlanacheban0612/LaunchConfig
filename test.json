@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-       "keyboardLayouts","ntp","playback","timeshift","rcEnable"
+       "keyboardLayouts","ntp","playback","timeshift","rcEnable","rcDeviceName","rcPassword"
     ]
   }
