@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-      "keyboardLayouts","ntp","bufferSize","audioLangs","subtitlesLangs","subtitleColor","subtitleSize"
+      "keyboardLayouts","ntp","bufferSize","audioLangs","subtitlesLangs","subtitleColor","subtitleSize","subtitlesState"
     ]
   }
