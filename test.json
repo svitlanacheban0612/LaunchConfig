@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-       "keyboardLayouts","ntp","playback","timeshift","remoteControl","network","audio","video","parentControl","userInterface","storageAccessMode","interfaceLanguage","deviceTimezone","deviceInfo","updateManager","clearUserData","restartPortal","rebootDevice","resetDeviceUserSettings","system"
+       "system","network","audio","video","parentControl","userInterface","loadEmbeddedPortal"
     ]
   }
