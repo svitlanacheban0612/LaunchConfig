@@ -1,5 +1,5 @@
 {
     "hidden_settings": [
-       "keyboardLayouts","ntp","playback","timeshift","remoteControl","network","audio","video","parentControl","hdmiCec","homeApplication","screenSaverInterval","screenSaverSelect","hdmiReaction","apd","userInterface"
+       "keyboardLayouts","ntp","playback","timeshift","remoteControl","network","audio","video","parentControl","userInterface"
     ]
   }
